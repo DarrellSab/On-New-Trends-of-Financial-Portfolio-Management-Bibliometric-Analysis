@@ -1,0 +1,9 @@
+Label	Replace by
+genetic	algorithms genetic algorithm
+lstm	long short-term memory
+artificial neural networks	artificial neural network
+neural networks	neural network
+support vector machines	support vector machine
+stock markets	stock market
+stock prediction	stock price prediction
+genetic algorithms	genetic algorithm
